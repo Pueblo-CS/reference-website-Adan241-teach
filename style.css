@@ -7,7 +7,7 @@ p{
     color: crimson; 
 }
 
-Body{
+body{
     background-color: bisque;
 }
 
@@ -16,5 +16,36 @@ a{
 }
 .picture{
     width: 1300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title2{
+    font-size: 90px;
+    text-align: center;
+}
+ol{
+    color: crimson;
+    font-size: 45px;
+}
+
+.li2{
+    font-size: 35px;
+}
+
+#history-link{
+    color:rgb(14, 223, 94)
+}
+
+#rules-link{
+    color:rgb(10, 6, 1);
+}
+
+#players-link{
+    color: azure;
+}
+
+.soccer{
+    width: 300px;
     
 }
